@@ -1,0 +1,8 @@
+When working on NNs, we require 5 parts:
+1. The model
+2. The data
+3. The driver function (main)
+4. Configuration file
+5. Utility file
+
+Each piece of code should be self contained and created as a class so that it can be reused whenever required
